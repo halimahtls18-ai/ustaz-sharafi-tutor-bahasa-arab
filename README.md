@@ -9,12 +9,9 @@ khususnya tashrif/konjugasi fi'il) secara interaktif lewat terminal.
 
 ## Identitas Mahasiswa
 
-- **Nama**: `<isi nama Anda>`
-- **NIM**: `<isi NIM Anda>`
-- **Kelas / Semester**: `<isi kelas dan semester>`
-
-> _Jika dikerjakan berkelompok (maksimal 2 orang), tambahkan baris nama & NIM
-> anggota kedua di atas._
+- **Nama**: `<Halimah Tulsadiah>`
+- **NIM**: `<1232030185>`
+- **Kelas / Semester**: `<6E>`
 
 ## Maharah & Level yang Dipilih
 
